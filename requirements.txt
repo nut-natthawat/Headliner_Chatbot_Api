@@ -7,3 +7,4 @@ langchain-huggingface
 qdrant-client
 sentence-transformers
 pydantic
+langchain-openai
